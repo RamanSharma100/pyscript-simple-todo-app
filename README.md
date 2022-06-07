@@ -1,2 +1,3 @@
 # pyscript-simple-todo-app
-this is the simple todoapp made with py-script
+
+this is the simple todo app made with py-script
